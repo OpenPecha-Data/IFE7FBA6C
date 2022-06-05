@@ -1,0 +1,36 @@
+id: IFE7FBA6C
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T19:56:07.920232'
+last_modified: '2022-06-05T19:56:07.920268'
+parser: null
+source_metadata:
+  title: Shakya Shri Series
+  language: en
+  description: 'Texts by the great yogi Tokden Shakya Shri (rtogs ldan shākya shrī,
+    1853–1919):'
+  volume:
+    f5A85:
+      title: 'A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven Line
+        Prayer (Addendum)'
+      base_file: f5A85.txt
+      order: 1
+      parent: Guru Yoga
+    f1501:
+      title: Supplication to Lord Mila Shepa Dorje
+      base_file: f1501.txt
+      order: 2
+      parent: Prayers
+    f39AA:
+      title: 'The Shower of Blessings: A Prayer'
+      base_file: f39AA.txt
+      order: 3
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
